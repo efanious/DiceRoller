@@ -1,5 +1,4 @@
-
-https://img.shields.io/badge/-Kotlin-red.svg
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>.svg
 
 # DiceRoller
 
